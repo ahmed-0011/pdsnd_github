@@ -8,13 +8,13 @@ CITIES_DATA_DICT = {
 }
 DATA_MONTHS = ["January", "February", "March", "April", "May", "June"]
 DAYS_OF_WEEK = [
+    "Saturday",
+    "Sunday",
     "Monday",
     "Tuesday",
     "Wednesday",
     "Thursday",
     "Friday",
-    "Saturday",
-    "Sunday",
 ]
 
 
