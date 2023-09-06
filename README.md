@@ -20,3 +20,6 @@ All you have to do is run this command in your terminal
 ```
 python bikeshare.py
 ```
+
+## Contributing
+All contributions are welcome.
