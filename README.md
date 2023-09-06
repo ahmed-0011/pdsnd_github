@@ -4,7 +4,7 @@
 **09/06/2023**
 
 ## Description
-TODO...
+In this project I created a CLI application that enable users to explore and extracte important insights about the US Bikeshare Data provided by [Motivate](https://motivateco.com).
 
 ## Files used
 * bikeshare.py
