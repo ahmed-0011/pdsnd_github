@@ -11,3 +11,12 @@ In this project I created a CLI application that enable users to explore and ext
 * chicago.csv
 * new_york_city.csv
 * washington.csv
+
+## Instrcutions to run the application
+
+You need to have python installed and have the data files and the script in the same directory.
+
+All you have to do is run this command in your terminal
+```
+python bikeshare.py
+```
